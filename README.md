@@ -1,4 +1,5 @@
 # ChatBot-NMT
+This is an old fork of the project:
 Chatbot using advanced NMT (Seq2Seq) RNN to chat !
 # Collecting Data
 There is already training a sample data in "new data" folder. Sample data is produced using Reddit 2015 January monthly entrys,comments whatever you call it.
@@ -12,8 +13,6 @@ You can interact wtih your chatbot using inference.py in root directory.
 
 # References:
 This project is based on tutorial series. See: https://pythonprogramming.net/chatbot-deep-learning-python-tensorflow/
-
-# You reached to the "END" :)
 
 
 
